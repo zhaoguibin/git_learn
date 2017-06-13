@@ -11,3 +11,4 @@ for($k=0;$k<=$len;$k++)
         }
     }
 }
+var_dump($b);
